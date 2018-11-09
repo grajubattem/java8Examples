@@ -1,4 +1,4 @@
-package com.raju.java8examples;
+package com.raju.functionalInterfaces;
 
 interface FunctionalInterfaces {
 

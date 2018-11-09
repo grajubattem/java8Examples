@@ -1,4 +1,4 @@
-package com.raju.java8examples;
+package com.raju.functionalInterfaces;
 
 interface FunctInter1{
 	int operation(int a, int b);
