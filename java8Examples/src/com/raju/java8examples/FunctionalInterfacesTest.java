@@ -12,6 +12,6 @@ interface FunctionalInterfaces {
 public class FunctionalInterfacesTest{
 	public static void main(String[] args) {
 		FunctionalInterfaces funInter = (int x)->System.out.println(2*x);
-		funInter.abstractFun(10);
+		funInter.abstractFun(10);//test
 	}
 }
