@@ -15,7 +15,7 @@ public class Practice1{
 		studentList.add(student1);
 		studentList.add(student2);
 		studentList.add(student3);
-		studentList.add(student4);
+		studentList.add(student4);//change
 		
 		studentList.forEach(stu->{
 			System.out.println(stu.getAddress());
