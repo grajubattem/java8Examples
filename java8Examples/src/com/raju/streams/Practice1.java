@@ -11,11 +11,11 @@ public class Practice1{
 		Student student1 = new Student(36, "Raju1", "Hyderabad1");
 		Student student2 = new Student(37, "Raju2", "Hyderabad2");
 		Student student3 = new Student(38, "Raju3", "Hyderabad3");
-		Student student4 = new Student(39, "Raju4", "Hyderabad4");
+		Student student5 = new Student(39, "Raju4", "Hyderabad4");
 		studentList.add(student1);
 		studentList.add(student2);
 		studentList.add(student3);
-		studentList.add(student4);//change
+		studentList.add(student5);//change--
 		
 		studentList.forEach(stu->{
 			System.out.println(stu.getAddress());
